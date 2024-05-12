@@ -30,7 +30,6 @@ ol {
 .page {
   display: flex;
   justify-content: center;
-  align-items: center;
   inline-size: 1200px;
   block-size: 800px;
   margin: auto;
@@ -208,7 +207,7 @@ ol {
   flex-direction: column;
   gap: 22px;
   inline-size: 420px;
-  block-size: 100%;
+  block-size: 534px;
   margin-block-start: 10px;
 }
 
